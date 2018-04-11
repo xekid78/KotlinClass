@@ -5,6 +5,6 @@ class Greeting(val word: String) {
 }
 
 fun main(args: Array<String>) {
-    val gree = Greeting("hello world")
+    val gree = Greeting("Hello World")
     gree.helloworld()
 }
