@@ -1,0 +1,2 @@
+# KotlinClass
+クラス
